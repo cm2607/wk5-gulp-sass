@@ -1,0 +1,15 @@
+{
+  "name": "wk4-sass",
+  "version": "1.0.0",
+  "description": "Gulp file template for learning more about sass.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brodie Austin",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
