@@ -25,3 +25,11 @@ You could also call these folders "private" and "public" if that is clearer.
 ## Never edit your `dist` files
 
 Once you start using build tools, you will need to remind yourself to *never edit files in your dist folder*. So, if you're working with Sass, you only edit the Sass files, never the CSS files directly. 
+
+## Using this repo
+
+If you want to try using the repo, just do the following:
+
+1. Clone the repo [git@github.com:DOMLIS786/wk5-gulp-sass.git](git@github.com:DOMLIS786/wk5-gulp-sass.git)
+2. Type `npm install` to install gulp and gulp-sass for the project
+3. Type `gulp` to start the gulp tasks.
